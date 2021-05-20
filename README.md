@@ -1,4 +1,5 @@
 # vuex_todo_manager
+- 참고강의: https://www.youtube.com/watch?v=5lVQgZzLMHc
 
 ## Project setup
 ```
