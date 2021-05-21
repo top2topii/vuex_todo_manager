@@ -4,6 +4,8 @@
 ## Project setup
 ```
 npm install
+npm install -g @vue/cli   ; if you not installed.
+npm install vuex axios
 ```
 
 ### Compiles and hot-reloads for development
